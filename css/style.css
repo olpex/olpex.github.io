@@ -42,7 +42,7 @@
 }
 .video {
 	margin-bottom: 30px;
-	display: inline: block;
+	display: inline-block;
 }
 .feature-box {
 	height: 160px;
