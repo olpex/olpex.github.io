@@ -35,6 +35,7 @@
 	}
 .feature {
 	margin-top: 20px;
+	display: inline:block;
 }
 .container {
 	margin-top: 30px;
