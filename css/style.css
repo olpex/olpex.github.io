@@ -49,3 +49,6 @@
 .feature-box {
 	height: 160px;
 }
+.col {
+	display: inline:block;
+}
