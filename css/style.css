@@ -17,9 +17,9 @@
 }
 .form {
 	border: 5px solid #2727d9;
-	padding: 0 20px;
+	padding: 30px 20px;
 	display: inline-block;
-	margin: 0;
+	margin-top: 0;
 }
 .form input {
 	margin-bottom: 12px;  
