@@ -19,6 +19,7 @@
 	border: 5px solid #2727d9;
 	padding: 35px 20px;
 	display: inline-block;
+	margin: 0;
 }
 .form input {
 	margin-bottom: 12px;  
